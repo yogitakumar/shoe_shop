@@ -140,7 +140,7 @@ List<Product> watchList = [
       "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T101.410.44.031.00.png",
       description: '''It was specially designed to accommodate 
   the needs of scientists that were working around electromagnetic fields.''',
-      price: 240,
+      price: 250,
       rating: 4,
       backColor: Colors.green,
       availbleColors: [Colors.yellow, Colors.purple, Colors.red],
