@@ -132,7 +132,7 @@ List<Product> watchList = [
       price: 240,
       rating: 4,
       backColor: Colors.yellow,
-      availbleColors: [Colors.yellow, Colors.purple, Colors.red],
+      availbleColors: [Colors.yellow, Colors.purple, Colors.red,Colors.blue],
       availableSizes: [6, 7, 8, 9]),
   Product(
       name: "Tissot",
